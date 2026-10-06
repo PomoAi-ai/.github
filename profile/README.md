@@ -23,7 +23,7 @@ PomoAI 提供大模型 API 中转服务，也探索 AI 参与编程、美术与�
 [![山体算力堡垒](https://raw.githubusercontent.com/PomoAi-ai/pelican-429/main/public/resources/home/fortress-overview.webp)](https://pelican429.pomoai.vip/)
 
 - 浏览器即开即玩，推荐使用电脑键盘与鼠标。
-- 序章动画、主线「深入山体堡垒」、角色与场景展示。
+- 序章动画、主线「深入山体堡垒」、自由世界与场景探索。
 - TypeScript + three.js；同一种子生成同一世界。
 - 当前为开发中试玩，剧情与关卡将持续完善。
 
