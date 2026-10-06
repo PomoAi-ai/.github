@@ -20,7 +20,7 @@ PomoAI 提供大模型 API 中转服务，也探索 AI 参与编程、美术与�
 
 一款正在制作中的浏览器横版动作冒险游戏：从一场 AGI 降智风暴出发，跟随鹈鹕与 Grassy，穿过算力与废墟交织的世界。
 
-[![山体算力堡垒](https://media.githubusercontent.com/media/PomoAi-ai/pelican-429/main/public/resources/home/fortress-overview.webp)](https://pelican429.pomoai.vip/)
+[![山体算力堡垒](https://raw.githubusercontent.com/PomoAi-ai/pelican-429/main/public/resources/home/fortress-overview.webp)](https://pelican429.pomoai.vip/)
 
 - 浏览器即开即玩，推荐使用电脑键盘与鼠标。
 - 序章动画、主线「深入山体堡垒」、角色与场景展示。
